@@ -10,6 +10,8 @@ license: mit
 
 # OpenBeni
 
+[![Mentioned in Awesome Beni](https://awesome.re/mentioned-badge.svg)](https://github.com/Mondo-Robotics/awesome-beni)
+
 Canonical source: [Mondo-Robotics/open-beni](https://github.com/Mondo-Robotics/open-beni). Development and pull requests belong in this repository; the Hugging Face Space is a deployment of this source.
 
 Play the browser game at [Hugging Face Spaces](https://huggingface.co/spaces/mondo-robotics/open-beni).
